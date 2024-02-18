@@ -1,11 +1,22 @@
-<h1 align="center">
-  Hi, I'm Klynoroales Aguilar 👋
-</h1>
+# Hi there! I'm Klyno R Aguilar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+I'm a front-end developer based in the Japan. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
-<h2 align="left">Connect with me:</h2>
-  <p align="left">
-    <a href="https://instagram.com/klyn0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="klyn0" height="30" width="40" /></a>
-  </p>
+I **love learning something new** and **sharing my learnings and experiences** with others through [my portfolio site](https://www.klynoroales-aguilar.com/) and [Twitter](https://twitter.com/KlynoAguilar). It's my way of giving back, spreading knowledge, and learning together.
+
+But there's more to me than just coding and blogging. I deeply value **collaborations**. I have big interest in **open source**, and enjoy being an active part of the **tech communities**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
+
+## Fun Facts
+      
+- 🗣 I can speak three languages: Japanese(native), English(business professional), and Tagalog(native).
+- 🍜 I'm obsessed with **RAMEN**. It's my go-to lunch for all seasons!
+
+## Let's connect! 👇🏼
+
+<div align="left">
+<a href="https://www.linkedin.com/in/klynoroales-aguilar-8b693126b/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
+<a href="https://twitter.com/home"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
+
+</div>
 	
   <h2 align="left">Badges</h2>
 		<p align="left">
