@@ -12,9 +12,7 @@ But there's more to me than just coding and blogging. I deeply value **collabora
 
 ## Let's connect! 👇🏼
 
-<div align="left">
-<a href="https://www.linkedin.com/in/klynoroales-aguilar-8b693126b/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
-<a href="https://twitter.com/home"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
+- [Portfolio](https://www.klynoroales-aguilar.com/)｜ [Qiita](https://qiita.com/aguilarklyno)｜[X](https://twitter.com/KlynoAguilar)｜[LinkedIn](https://www.linkedin.com/in/klynoroales-aguilar-8b693126b/)
 
 </div>
 	
@@ -34,8 +32,8 @@ But there's more to me than just coding and blogging. I deeply value **collabora
     <col>
   </colgroup>
   <tr>
-    <th><h3 align="center">Design</h3></th>
-    <th><h3 align="center">Frontend</h3></th>
+    <th><p align="center">Design</p></th>
+    <th><p align="center">Frontend</p></th>
   </tr>
   <tr>
     <td align="center">
@@ -52,8 +50,8 @@ But there's more to me than just coding and blogging. I deeply value **collabora
     </td>
 	</tr>
 	<tr>
-    <th><h3 align="center">Backend</h3></th>
-    <th><h3 align="center">Data Analysis</h3></th>
+    <th><p align="center">Backend</p></th>
+    <th><p align="center">Data Analysis</p></th>
   </tr>
 	<tr>
     <td align="center">
