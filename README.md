@@ -4,14 +4,22 @@
 
 <h2 align="left">Connect with me:</h2>
   <p align="left">
-    <a href="https://instagram.com/klyn0" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="klyn0" height="30" width="40" />
-    </a>
+    <a href="https://instagram.com/klyn0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="klyn0" height="30" width="40" /></a>
   </p>
 	
 <h2 align="left">Skills</h2>
+  <h3 align="left">Badges</h3>
+		<p align="left">
+		  <a href="https://github.com/aguilarklyno/aguilarklyno/"><img src="https://komarev.com/ghpvc/?username=aguilarklyno" alt="aguilarklyno" /></a>
+		  <a href="http://twitter.com/KlynoAguilar"><img height="20" src="https://img.shields.io/twitter/follow/KlynoAguilar?label=Twitter&logo=twitter&style=flat" /></a>
+		  <a href="https://github.com/aguilarklyno"><img height="20" src="https://img.shields.io/github/followers/aguilarklyno?label=follow&logo=github&style=flat" /></a>
+		  <a href="http://qiita.com/aguilarklyno"><img height="20" src="https://qiita-badge.apiapi.app/s/aguilarklyno/posts.svg" /></a>
+		  <//qiita.com/aguilarklyno"><img height="20" src="https://qiita-badge.apiapi.app/s/aguilarklyno/contributions.svg" /></a>
+		</p>
 
-  <h3 align="left">Design skills:</h3>
+
+
+  <h3 align="left">Design</h3>
     <p align="left"> 
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -22,7 +30,7 @@
     </p>
 
 
-  <h3 align="left">Front end skills:</h3>
+  <h3 align="left">Frontend</h3>
     <p align="left"> 
   		<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 		  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
@@ -32,7 +40,7 @@
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     </p>
 
-  <h3 align="left">Back end skills:</h3>
+  <h3 align="left">Backend</h3>
     <p align="left"> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
@@ -40,7 +48,7 @@
       <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
     </p>
   
-  <h3 align="left">Data analysis skills:</h3>
+  <h3 align="left">Data analysis</h3>
     <p align="left">
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
