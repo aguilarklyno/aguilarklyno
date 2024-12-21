@@ -1,18 +1,5 @@
-# Hi there! I'm Klyno R Aguilar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-I'm a front-end developer based in the Japan. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
-
-I **love learning something new** and **sharing my learnings and experiences** with others through [my portfolio site](https://www.klynoroales-aguilar.com/) and [Twitter](https://twitter.com/KlynoAguilar). It's my way of giving back, spreading knowledge, and learning together.
-
-But there's more to me than just coding and blogging. I deeply value **collaborations**. I have big interest in **open source**, and enjoy being an active part of the **tech communities**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
-
-## Fun Facts
-      
-- 🗣 I can speak three languages: Japanese(native), English(business professional), and Tagalog(native).
-- 🍜 I'm obsessed with **RAMEN**. It's my go-to lunch for all seasons!
-
-## Let's connect! 👇🏼
-
-- [Portfolio](https://www.klynoroales-aguilar.com/)｜ [Qiita](https://qiita.com/aguilarklyno)｜[X](https://twitter.com/KlynoAguilar)｜[LinkedIn](https://www.linkedin.com/in/klynoroales-aguilar-8b693126b/)
+# About me
+I'm a ex-front-end developer based in the Japan. Now I'm working in Finance, so programming is just my free-time hobby.
 
 </div>
 	
