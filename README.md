@@ -1,5 +1,5 @@
 # About me
-I'm a ex-front-end developer based in the Japan. Now I'm working in Finance, so programming is just my free-time hobby.
+I'm a ex-front-end developer based in the Japan. Now I'm working in Finance as an investment banker.
 
 </div>
 	
